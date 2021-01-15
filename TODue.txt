@@ -1,0 +1,4 @@
+1. CIDFont function -> output Japanese font.
+2. FontCache -> a function which prevents duplicate font definition.
+3. Graphics function -> draw lines and circles.
+4. Image function -> draw images
